@@ -39,7 +39,7 @@ This repository contains the **full theoretical monographs**, **computational to
 
 ---
 
-## **The S.T.A.R. Model: Core Idea**
+## **Core Idea**
 
 The S.T.A.R. Model asserts that the universe behaves as a **Symbolic Field**, where:
 
@@ -69,7 +69,7 @@ which naturally produces:
 
 ## **The S.T.A.R. Trilogy Architecture**
 
-This repository represents the **unified theory layer** of a three‑part research program:
+This repository represents the **theory layering** of a three‑part research program:
 
 ### **1. ACSC — Geometry**  
 *Arithmetic–Cosmic Structure Conjecture*  
@@ -79,7 +79,7 @@ Defines the projection map $\( \Phi(E) \)$, the k‑factor scaling, density‑eq
 *Entropy Cohomology Conjecture*  
 Defines the entropy field $\( \mathcal{M}(x) \)$, the differential forms $\( \theta = d\mathcal{M} \)$, $\( \omega = d\theta \)$, and the cohomology class $\(\omega\)$ governing symbolic conservation.
 
-### **3. S.T.A.R. — Unified Physics**  
+### **3. S.T.A.R. — Combined Physics**  
 *Symbolic–Topological–Arithmetic–Relativity Model*  
 Combines ACSC + ECC into a full cosmological model with:
 
